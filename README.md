@@ -1,12 +1,17 @@
-👋 Hi, I’m Peyton
+Hi, I’m Peyton. 👋 Thanks for browsing my readme!
 <br>
-👀 I’m interested in full-stack software development, data analysis and how technology can accelerate the closing of equity gaps and make our lives easier.
 <br>
-🌱 I’m currently learning the fundamentals of full-stack software engineering through curriculum projects at Flatiron School.
+I’m interested in full-stack software development, data analysis and how technology can accelerate the closing of equity gaps and make our lives easier.
 <br>
-    ---> see my pinned repos!
+🌱 I am a recent Flatiron School Software Engineering graduate. PRs on any of my pinned projects are welcomed and appreciated.
 <br>
-💞️ I’m looking to collaborate and build upon my personal network of developers and recruiters in tech.
+:technologist: I’m looking to collaborate and build upon my personal network of developers and recruiters in tech.
 <br>
-📫 Are you aware of internship opps for an entry-level software developer? Please reach out by email (peytonkellogg@gmail.com) or LinkedIn.
-
+<br>
+<br>
+Please feel free to reach me by email with software development roles or opportunities.
+<br>
+<br>
+📫 peytonkellogg@gmail.com
+<br>
+LinkedIn :arrow_right: https://www.linkedin.com/in/peyton-kellogg/
